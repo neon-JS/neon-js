@@ -23,6 +23,3 @@ My Github projects are mostly created for personal use and therefore aren't alwa
 in active development or even production ready.  
 I try to update them every now and then to keep them usable.    
 If you want to use one of them or need an extension, feel free to create an issue or fork them directly. 😊
-
-## Contact
-Message me via: _github+curly /at/ likely /dot/ gay_
