@@ -12,7 +12,7 @@ during work as well.
 
 ## Languages & stacks
 I'd claim that I'm pretty proficient with the following languages or stacks:
-- C# in combination with .NET Core and EF Core
+- C# in combination with .NET Core 3+
 - PHP 7+
 - MySQL / MariaDB
 - ECMAScript / TypeScript (mainly for node.js)
