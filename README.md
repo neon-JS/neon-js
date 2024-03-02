@@ -1,7 +1,7 @@
 ## About
 
 Hi. ✌🏻   
-I'm Curly (_he/they_), a backend developer from the Lower Rhine in Germany. At my job at `{{ job.company.name }}`, I mainly work on a PHP (8) backend but I'd say that C# in combination with the .NET framework) is probably my go-to language.   
+I'm Curly (_he/they_), a backend developer from the Lower Rhine in Germany. At my job at `{{ job.company.name }}`, I mainly work on a PHP (8) backend but I'd say that C# (in combination with the .NET framework) is probably my go-to language.   
 
 That said, I like to play around with other languages like Rust or sometimes (even) C for Arduino stuff. I also gained some knowledge of Docker and basic server administration during work as well. 
 
