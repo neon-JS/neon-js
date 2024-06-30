@@ -5,6 +5,8 @@ I'm Curly (_he/they_), a backend developer from the Lower Rhine in Germany. At m
 
 That said, I like to play around with other languages like Rust or sometimes (even) C for Arduino stuff. I also gained some knowledge of Docker and basic server administration during work as well. 
 
+... oh, and I use arch, btw!
+
 ## Languages, stacks and tools
 #### Proficient
 - C# in combination with .NET (3+), EF Core and xUnit
